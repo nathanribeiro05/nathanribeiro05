@@ -7,7 +7,7 @@
  ## Sobre mim
  
  <p>
- Sou estudante de graduação em Engenharia Civil pela Universidade Católica do Salvador, onde aproveito para desenvolver minhas soft skills, como trabalho em equipe, por exemplo. Porém venho estudando por conta própria através de cursos e bootcamps na internet com o propósito de fazer uma transição de carreira e ingressar na área tech. Atualmente meus estudos têm foco na linguagem Java (com ênfase em Programação Orientada à Objetos) e Backend, mas possuo conhecimento funcional das tecnologias JavaScript, HTML e CSS.
+ Sou estudante de graduação em Engenharia Civil pela Universidade Católica do Salvador, onde aproveito para desenvolver minhas soft skills, como trabalho em equipe, comunicação e liderança, por exemplo. Porém venho estudando por conta própria através de cursos e bootcamps na internet com o propósito de fazer uma transição de carreira e ingressar na área tech. Atualmente meus estudos têm foco na linguagem Java (com ênfase em Programação Orientada à Objetos) e Backend, mas possuo conhecimento funcional das tecnologias JavaScript, HTML e CSS.
  </p>
 
 - Hard Skills: Java, HTML, CSS, JavaScript, Git, Github.
