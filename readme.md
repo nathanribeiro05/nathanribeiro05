@@ -20,13 +20,13 @@
   
  ## Educação
  
- - Programa ONE, turma 5 | Abril 2023 - Outubro 2023
+ - Programa ONE, turma 5 | Abril 2023 - o momento
   
-  <p>Participante da turma 5 do Programa ONE da Oracle em parceria com a Alura, no qual obtive treinamento em HTML, CSS, JavaScript e incrementei conhecimentos e práticas em Java, SQL e MySQL durante os meses do programa.</p>
+  <p>Participante da turma 5 do Programa ONE da Oracle em parceria com a Alura, no qual obtive treinamento em HTML, CSS, JavaScript e estou adquirindo mais conhecimentos e práticas em Java, SQL e Spring durante os meses do programa.</p>
 
-  - Programa Start Capgemini | Maio 2023 - Outubro 2023
+  - Programa Start Capgemini | Maio 2023 - o momento
   
-  <p>Participante do Programa Start da Capgemini, no qual obtive treinamento acerca dos conceitos e aplicações da Lógica de Programação e incrementei conhecimentos e práticas na trilha de Java, escolhida por mim após treinamento básico.</p>
+  <p>Participante do Programa Start da Capgemini, no qual obtive treinamento acerca dos conceitos e aplicações da Lógica de Programação e estou incrementando conhecimentos e práticas na trilha de Java, escolhida por mim após treinamento básico.</p>
   
  - Curso completo em Java - Udemy Academy | Janeiro 2023 - o momento
   
