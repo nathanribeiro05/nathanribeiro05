@@ -38,7 +38,7 @@
 
 <a href="https://www.linkedin.com/in/jonathan-ribeiro-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin"></a>
 <a href="mailto:jonathanribeiro05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My E-mail"></a>
-<a href="https://www.instagram.com/nathanribeiro05/"><img src="https://img.shields.io/badge/PerfilONE-E4405F?style=for-the-badge&logo=perfilone&logoColor=white" alt="My Instagram"></a>
+<a href="https://www.instagram.com/nathanribeiro05/"><img src="https://img.shields.io/badge/Perfil-ONE-E4405F?style=for-the-badge&logo=perfilone&logoColor=white" alt="My Instagram"></a>
 <a href="https://cursos.alura.com.br/emprega-one/profile/jonathanribeiro05"><img src="https://img.shields.io/badge/Perfil%20Emprega-ONE-yellow.svg" alt="me perfil emprega one"></a>
 
 </div>
